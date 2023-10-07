@@ -1,0 +1,6 @@
+Welcome to git 
+git svc
+Staing area
+local repo
+remote repo
+stash
