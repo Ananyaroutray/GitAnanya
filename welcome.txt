@@ -4,3 +4,4 @@ Staing area
 local repo
 remote repo
 stash
+Hello everyone, here i am praticing git
